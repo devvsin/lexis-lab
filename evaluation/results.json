@@ -1,0 +1,20 @@
+{
+  "bm25": {
+    "recall_at_k": 1.0,
+    "answerable_questions": 13,
+    "unanswerable_questions": 2,
+    "unanswerable_retrieval_rate": 1.0
+  },
+  "semantic": {
+    "recall_at_k": 0.9230769230769231,
+    "answerable_questions": 13,
+    "unanswerable_questions": 2,
+    "unanswerable_retrieval_rate": 1.0
+  },
+  "hybrid": {
+    "recall_at_k": 1.0,
+    "answerable_questions": 13,
+    "unanswerable_questions": 2,
+    "unanswerable_retrieval_rate": 1.0
+  }
+}

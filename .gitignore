@@ -1,0 +1,26 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test and lint caches
+.pytest_cache/
+.ruff_cache/
+
+# Logs and local diagnostics
+*.log
+
+# Local documents and uploaded data
+data/
+uploads/
+
+# Local dependency snapshot
+requirements-full.txt
