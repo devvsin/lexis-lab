@@ -298,15 +298,7 @@ Always verify important conclusions against the original legal document.
 
 ---
 
-## 👨‍💻 Author
 
-**Devvrat Singh**
-
-Computer Science & Engineering Student | Interested in AI Engineering, Retrieval Systems and Applied Machine Learning.
-
-[GitHub](https://github.com/devvsin) · [Project Repository](https://github.com/devvsin/legal-document-intelligence)
-
----
 
 <p align="center">
   <strong>Lexis Lab</strong><br/>
